@@ -1,11 +1,23 @@
-# Module 18 | Assignment - Unsupervised Learning
+# Cryptocurrencies - Unsupervised Learning
 ![](Images/crypto-6713760_1920.jpg)
 User unsupervised learning to create a portfolio for the cryptocurrency market.
 
-## Challenge Solution
+## Overview
 
-[Challenge Solution](Challenge_Solution): The solution files for the module's challenge assignment are located in this folder.
 
-## Module Solution
 
-[Module Solution](Module_Solution): Any module demos or solution files for the module async content are located in this folder.
+## Resources 
+
+- **Data Source:** [crypto_data_.csv](Resources/crypto_data.csv) 
+
+- **Language, Tools & Libraries:** Python, Anaconda, Jupyter Notebook, Pandas  
+
+
+
+## Results: 
+
+
+
+## Summary: 
+
+
