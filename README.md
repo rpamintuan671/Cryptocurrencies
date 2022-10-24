@@ -1,9 +1,9 @@
 # Cryptocurrencies - Unsupervised Learning
 ![](Images/crypto-6713760_1920.jpg)
-User unsupervised learning to create a portfolio for the cryptocurrency market.
+
 
 ## Overview
-The purpose of this analysis is to create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
+The purpose of this analysis is to utilized unsupervised learning to  create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
 
 Unsupervised machine learning methods:
 - Data processing and transforming
