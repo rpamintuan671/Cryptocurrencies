@@ -1,5 +1,5 @@
 # Module 18 | Assignment - Unsupervised Learning
-
+![](Images/crypto-6713760_1920.jpg)
 User unsupervised learning to create a portfolio for the cryptocurrency market.
 
 ## Challenge Solution
