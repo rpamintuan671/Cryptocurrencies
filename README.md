@@ -27,17 +27,37 @@ The following results on this analysis is below.
 
 In the process and cleaning it is determined that there are 532 tradeable cryptocurrencies. 
 
-#### Crypto_df
+#### Crypto Dataframe after processing
 ![](Images/Crypto_df.png)
 
-### Dataframe eith Thre Pincipal Components
+#### Dataframe with Three Principal Components after reducing Data Dimentions Using PCA.
 ![](Images/DataFrame%20with%20Three%20Pincipal%20Components.png)
 
 
-#### Finding the Best Value for **k** Using the Elbow Curve
-##### Running K-Means with **k=4** 
+#### Finding the Best Value for k Using the Elbow Curve.
 ![](Images/Elbow%20Curve.png)
 
+
+#### Clustered Dataframe before Visualization 
+![](Images/Clustered%20df.png)
+
+
+
+#### 3D-Scatter with PCA data and the Clusters
+![](Images/3D-Scatter%20Plot%20with%20the%20PCA%20Data%20and%20Cluster.png)
+
+
+### Tradeable Dataframe of Cryptocurrencies using hvplot.table()
+![](Images/Tradeable%20Crypto%20Table.png)
+
+
+### New DataFrame that has scalled data with clustered_df DataFrame
+![](Images/New%20DataFrame%20with%20clustered_df.png)
+
+
+
+#### hvplot.scatter plot using x="TotalCoinsMined" and y="TotalCoinSupply"
+![](Images/hvplot.scatter%20plot.png)
 
 
 
