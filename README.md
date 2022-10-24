@@ -16,16 +16,31 @@ Unsupervised machine learning methods:
 
 ## Resources 
 
-- **Data Source:** [crypto_data_.csv](Resources/crypto_data.csv) 
+- **Data Source:** [crypto_data_.csv](Resources/crypto_data.csv) was retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
 
 - **Language, Tools & Libraries:** Python, Anaconda, Jupyter Notebook, Pandas  
 
 
 
 ## Results: 
+The following results on this analysis is below. 
+
+In the process and cleaning it is determined that there are 532 tradeable cryptocurrencies. 
+
+#### Crypto_df
+![](Images/Crypto_df.png)
+
+### Dataframe eith Thre Pincipal Components
+![](Images/DataFrame%20with%20Three%20Pincipal%20Components.png)
+
+
+#### Finding the Best Value for **k** Using the Elbow Curve
+##### Running K-Means with **k=4** 
+![](Images/Elbow%20Curve.png)
+
 
 
 
 ## Summary: 
-
+In summary, 
 
