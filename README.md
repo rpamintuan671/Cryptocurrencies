@@ -3,7 +3,7 @@
 
 
 ## Overview
-The purpose of this analysis is to utilized unsupervised learning to  create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
+The purpose of this analysis is to utilized unsupervised learning and create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
 
 Unsupervised machine learning methods:
 - Data processing and transforming
@@ -77,5 +77,5 @@ In the process and cleaning it is determined that there are 532 tradeable crypto
 
 
 ## Summary: 
-In summary, after processing, transforming, clustering and visualization there are 532 cryptocurrencies that are treadeable. These are divided into four classes per hvplot.scatter plot. These classes can be determined be determined by utility, payment, security and stablecoins. In this analysis, performance and potential rate of return for each cryptocurrency were not completed in order to provide recommendations to Accountability Accounting clients.  
+In summary, after processing, transforming, clustering and visualization there are 532 cryptocurrencies that are treadeable. These are divided into four classes per hvplot.scatter plot. These classes can be determined by utility, payment, security and stablecoins. In this analysis, performance and potential rate of return for each cryptocurrency were not completed in order to provide recommendations to Accountability Accounting clients.  
 
