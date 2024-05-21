@@ -3,7 +3,7 @@
 
 
 ## Overview
-The purpose of this analysis is to utilized unsupervised learning and create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
+The purpose of this analysis is to utilize unsupervised learning and create a report for company called Accountability Accounting. They would like to know if they could add cryptocurrencies in their portfolio as part of their investment for their clients.  
 
 Unsupervised machine learning methods:
 - Data processing and transforming
