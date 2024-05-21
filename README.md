@@ -77,5 +77,5 @@ In the process and cleaning, it was determined that there were 532 tradeable cry
 
 
 ## Summary: 
-In summary, after processing, transforming, clustering and visualization there are 532 cryptocurrencies that are treadeable. These are divided into four classes per hvplot.scatter plot. These classes can be determined by utility, payment, security and stablecoins. In this analysis, performance and potential rate of return for each cryptocurrency were not completed in order to provide recommendations to Accountability Accounting clients.  
+In summary, after processing, transforming, clustering, and visualization, we identified 532 tradeable cryptocurrencies. These cryptocurrencies are divided into four classes, as shown by the hvplot.scatter plot: utility, payment, security, and stablecoins. This analysis did not include an evaluation of the performance and potential rate of return for each cryptocurrency, which would be necessary to provide specific recommendations to Accountability Accounting clients. 
 
