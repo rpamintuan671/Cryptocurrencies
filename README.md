@@ -25,7 +25,7 @@ Unsupervised machine learning methods:
 ## Results: 
 The following results on this analysis is below. 
 
-In the process and cleaning it is determined that there are 532 tradeable cryptocurrencies based on the data provided. 
+In the process and cleaning, it was determined that there were 532 tradeable cryptocurrencies based on the data provided. 
 
 
 
